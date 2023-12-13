@@ -1,0 +1,17 @@
+{
+  "name": "api-rick-and-morty",
+  "version": "1.0.0",
+  "description": "Parcial 3 Multiplataforma",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "package": "electron-builder --win"
+  },
+  "keywords": [],
+  "author": "Fabian Lopez",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^16.0.0",
+    "electron-builder": "^22.14.13"
+  }
+}
